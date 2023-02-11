@@ -1,20 +1,18 @@
-### Hi there👋, I am Irfan
+### <h1>Hi there👋, I am Irfan</h1>
 
-<!--
-**irfan-29/irfan-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+<hr>
 
 - 🔭 I’m currently working on class project
 - 🌱 I’m currently learning react
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 -->
+- 💬 Ask me about web
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: umirfan29@gmail.com
 <!--
-- 😄 Pronouns: 
+
 - ⚡ Fun fact: ...
 -->
