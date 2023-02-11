@@ -7,7 +7,7 @@
 - 💬 Ask me about web
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: - Gmail: umirfan29@gmail.com
-                       - LinkedIn: <a class="footer-link" href="https://www.linkedin.com/in/mohammed-irfan-u-ab6401243">umirfan29</a>
+                       - LinkedIn: <a class="footer-link" href="https://www.linkedin.com/in/umirfan29">umirfan29</a>
                        - Instagram: <a class="footer-link" href="https://instagram.com/__irfan_29__?igshid=YmMyMTA2M2Y=">__irfan_29__</a>
 
 <!--
