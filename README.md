@@ -1,7 +1,6 @@
-### <h1>Hi there👋, I am Irfan</h1>
+### <h1 style="text-align: center;">Hi there👋, I am Irfan</h1>
 
 
-<hr>
 
 - 🔭 I’m currently working on class project
 - 🌱 I’m currently learning react
