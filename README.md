@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning react
 - 💬 Ask me about web
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: - Gmail: umirfan29@gmail.com
-                       - LinkedIn: <a class="footer-link" href="https://www.linkedin.com/in/umirfan29">umirfan29</a>
-                       - Instagram: <a class="footer-link" href="https://instagram.com/__irfan_29__?igshid=YmMyMTA2M2Y=">__irfan_29__</a>
+- 📫 How to reach me:<br> - Gmail: umirfan29@gmail.com<br>
+                           - LinkedIn: <a class="footer-link" href="https://www.linkedin.com/in/umirfan29">umirfan29</a><br>
+                           - Instagram: <a class="footer-link" href="https://instagram.com/__irfan_29__?igshid=YmMyMTA2M2Y=">__irfan_29__</a><br>
 
 <!--
 - 👯 I’m looking to collaborate on ...
