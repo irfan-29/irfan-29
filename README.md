@@ -4,7 +4,7 @@
 I am a web application developer, loves designing!
 * 🌍  I'm based in India
 * ✉  You can contact me at [umirfan29@gmail.com](mailto:umirfan29@gmail.com)
-* 🚀  I'm currently working on my portfolio
+* 🚀  I'm currently working on project QuizOut
 * 🧠  I'm learning react
 * 🤝  I'm open to collaborating on web projects
 * ⚡  If nothing goes right, go left
